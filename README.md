@@ -7,4 +7,5 @@
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
 
-## credits by Bedimcode
+## Credits by: 
+ - Bedimcode
